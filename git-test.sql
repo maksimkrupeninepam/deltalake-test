@@ -1,4 +1,6 @@
 -- Databricks notebook source
 select * from a
 
-select * from b
+-- COMMAND ----------
+
+select * from b2
