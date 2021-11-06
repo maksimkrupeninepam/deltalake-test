@@ -186,7 +186,3 @@ drop table raw_area.lineitem;
 -- COMMAND ----------
 
 select count(*) from raw_area.lineitem;
-
--- COMMAND ----------
-
-
